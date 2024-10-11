@@ -1,0 +1,2 @@
+user-agent: *
+sitemap: https://ini.wtf/sitemap.txt
